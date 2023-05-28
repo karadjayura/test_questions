@@ -1,0 +1,11 @@
+{
+    "name": "ban81/new-project",
+    "autoload": {
+        "psr-4": {
+            "application\\": "application/"
+        }
+    },
+    "require": {
+        "firebase/php-jwt": "^6.5"
+    }
+}
